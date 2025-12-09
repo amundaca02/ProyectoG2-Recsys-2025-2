@@ -24,7 +24,7 @@ Este proyecto implementa y evalúa múltiples sistemas de recomendación de comi
 - **Cursos**: Platos categorizados (Aperitivo, Principal, Postre)
 - **Interacciones**: Matriz dispersa usuario-comida del conjunto de entrenamiento
 
-## Arquitectura del Sistema
+## Estructura del proyecto
 
 ### 1. Modelos Baseline (Utilizados en E1 principalmente)
 - **Random**: Recomendaciones aleatorias
