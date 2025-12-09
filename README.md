@@ -2,6 +2,10 @@
 
 Este proyecto implementa y evalúa múltiples sistemas de recomendación de comidas que equilibran las preferencias del usuario con aspectos de salud nutricional. Utilizamos el dataset **MealRec+H** para comparar diferentes enfoques de recomendación que incorporan información de salud.
 
+## Contenidos del repositorio
+
+Este repositorio contiene un unico jupyter notebook sobre el cual se trabajó para las distintas entregas. Es importante considerar que este fue ejecutado en el entorno de google collab. 
+
 ## Objetivos
 
 - Implementar sistemas de recomendación de comidas que consideren tanto preferencias como salud
