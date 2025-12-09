@@ -77,10 +77,8 @@ score_final = (1 - α) × relevancia + α × salud
 
 ## 🔍 Hallazgos Principales
 
-1. **DeepFM** logra el mejor balance general entre precisión y salud al integrar features nutricionales directamente
-2. **Re-ranking** es efectivo pero sacrifica más precisión que la integración directa
-3. El parámetro **α = 0.4** ofrece el mejor trade-off para la mayoría de modelos
-4. Los scores **WHO** y **FSA** capturan aspectos complementarios de la salud nutricional
+1. **LightFM** logra el mejor balance general entre precisión y salud.
+2. **DeepFM** logra el peor balance general entre precisión y salud al integrar features nutricionales directamente
 
 ## Dataset original
 
